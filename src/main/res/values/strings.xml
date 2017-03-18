@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">UDP</string>
+    <string name="app_name">BROB</string>
     <string name="Kp">Kp:</string>
     <string name="Ki">Ki:</string>
     <string name="Kd">Kd:</string>
